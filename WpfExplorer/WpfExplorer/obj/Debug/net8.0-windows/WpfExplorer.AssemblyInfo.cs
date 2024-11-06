@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WpfExplorer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e504c4281fdcd768189183930276a513ef63ee3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("WpfExplorer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WpfExplorer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
